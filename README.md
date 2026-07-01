@@ -8,7 +8,7 @@ It combines data preprocessing, classification modeling, and a Power BI dashboar
 ## Dashboard Preview
 
 ### Dashboard Overview
-![superstore dashboard Overview](images/Overview.png)
+![superstore dashboard Overview](images/overview.png)
 
 ### Ship Mode Prediction
 ![prediction](images/predictions.png)
